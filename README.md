@@ -29,3 +29,8 @@ Para este projeto, foram designadas as seguintes funcionalidades, além de toda 
 - **Card**: Mostra a quantidade total de funcionários.
 ##  📊**Resultado Final**
 ![image](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-1/Images/dashboard.jpg)
+
+## **Funções DAX**
+
+As funções DAX (Data Analysis Expressions) são utilizadas para realizar cálculos avançados e operações dinâmicas no Power BI. Elas permitem, por exemplo, a criação de colunas calculadas e medidas personalizadas, possibilitando a análise de dados complexos de forma eficiente. Com o uso de DAX, é possível não só gerar novos resultados, mas também melhorar o desempenho dos cálculos, oferecendo maior flexibilidade e dinamismo para as análises da base de dados.
+
