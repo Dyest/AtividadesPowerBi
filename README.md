@@ -77,6 +77,8 @@ ESTADOS = IF(tb_rh[FILIAL] = "RJ", "RIO DE JANEIRO",
           IF(tb_rh[FILIAL] = "MG", "MINAS GERAIS")))
 ```
 
+Feito essas modificaçoes, a dashboard foi clonada e modificada para adicionar um novo grafico, sendo esse o gasto com funcionarios caros e baratos.
+
 ##  📊**Resultado Final**
 ![image](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-1/Images/dashboard_2.jpg)
 
