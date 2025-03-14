@@ -28,4 +28,4 @@ Para este projeto, foram designadas as seguintes funcionalidades, além de toda 
   - Média de idade por gênero (valor tota e em porcentagem).
 - **Card**: Mostra a quantidade total de funcionários.
 ##  📊**Resultado Final**
-![image]()
+![image](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-1/Images/dashboard.jpg)
