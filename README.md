@@ -30,7 +30,50 @@ Para este projeto, foram designadas as seguintes funcionalidades, além de toda 
 ##  📊**Resultado Final**
 ![image](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-1/Images/dashboard.jpg)
 
-## **Funções DAX**
+## **Funções DAX**  
 
-As funções DAX (Data Analysis Expressions) são utilizadas para realizar cálculos avançados e operações dinâmicas no Power BI. Elas permitem, por exemplo, a criação de colunas calculadas e medidas personalizadas, possibilitando a análise de dados complexos de forma eficiente. Com o uso de DAX, é possível não só gerar novos resultados, mas também melhorar o desempenho dos cálculos, oferecendo maior flexibilidade e dinamismo para as análises da base de dados.
+As funções **DAX (Data Analysis Expressions)** são utilizadas para realizar cálculos avançados e operações dinâmicas no Power BI. Elas permitem a criação de colunas calculadas e medidas personalizadas, possibilitando uma análise de dados mais eficiente e flexível.  
+
+Com DAX, é possível não apenas gerar novos insights, mas também otimizar o desempenho dos cálculos, tornando as análises mais dinâmicas e robustas.  
+
+### 📌**Medidas Criadas**  
+
+Neste projeto, foram criadas quatro medidas iniciais utilizando funções DAX básicas, como **`SUM`**, **`AVERAGE`** e **`COUNT`**.  
+
+```javascript
+TOTAL DE SALARIOS = SUM(tb_rh[SALARIO]) 
+```
+
+```javascript
+QTDE TOTAL DE FALTAS = SUM(tb_rh[QTDE FALTA]) 
+```
+
+```javascript
+IDADE POR GENERO = AVERAGE(tb_rh[IDADE]) 
+```
+
+```javascript
+GENERO = COUNT(tb_rh[NOME])
+```
+
+### 📌**Colunas Calculadas**  
+Além das medidas, foram criadas três colunas calculadas, cada uma utilizando diferentes funcionalidades do DAX.
+
+**`ANO`** → Extrai o ano de admissão do funcionário.
+```javascript
+ANO = YEAR(tb_rh[DATA ADIMISSAO]) 
+```
+
+**`FUNCIONARIO`** → Classifica o funcionário como "CARO" ou "COMUM" com base no salário.
+```javascript
+FUNCIONARIO = IF(tb_rh[SALARIO] >= 5000, "FUNCIONARIO CARO", "FUNCIONARIO COMUM")
+```
+
+**`ESTADOS`** → Converte as siglas dos estados para seus nomes completos.
+
+```javascript
+ESTADOS = IF(tb_rh[FILIAL] = "RJ", "RIO DE JANEIRO", 
+          IF(tb_rh[FILIAL] = "SP", "SÂO PAULO",
+          IF(tb_rh[FILIAL] = "MG", "MINAS GERAIS")))
+```
 
