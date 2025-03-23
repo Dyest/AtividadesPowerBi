@@ -30,7 +30,7 @@ A tabela exibe informações detalhadas sobre cada transação, incluindo:
 - **Cadastro e Status do Cliente** (com ícones personalizados)  
 - **Faturamento da Transação**  
 ###  📊**Resultado Final tela de veiculos**
-![image]()
+![image](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-2/images/pag_1.jpg)
 
 ### 📌 **Fórmulas DAX Utilizadas**  
 
