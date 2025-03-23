@@ -92,7 +92,7 @@ A estrutura de relacionamento entre as tabelas ficou assim:
 ![image]()
 
 ###  📊**Resultado final tela de clientes**
-![image]()
+![image](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-2/images/pag_2.jpg)
 ## **DUVIDAS**
 
 📌 **Diferença entre SUM e SUMX**
