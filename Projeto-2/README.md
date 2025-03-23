@@ -89,7 +89,7 @@ A estrutura de relacionamento entre as tabelas ficou assim:
 
 
 ###  📊**Resultado dos relacionamentos**
-![image]()
+![image](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-2/images/relacionamento.jpg)
 
 ###  📊**Resultado final tela de clientes**
 ![image](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-2/images/pag_2.jpg)
