@@ -5,3 +5,23 @@ Estes projetos foram desenvolvidos atraves de um curso externo de Power BI + SQL
 Mais informaçoes nas pastas dos respectivos projetos.
 
 
+## **Conceitos aprendidos até o momento:**  
+
+- **Power BI (iniciante → intermediário)**  
+- **Power Query e processos de ETL**  
+- **Fórmulas DAX**  
+- **Processos de Join e mesclagem de tabelas no Power Query** 
+
+## **Futuros estudos e cursos planejados:**  
+
+### **Cursos da Data Science Academy**  
+- **Fundamentos de Data Science e Inteligência Artificial**  
+- **Fundamentos de Engenharia de Dados**  
+- **Fundamentos de Linguagem Python Para Análise de Dados e Data Science**  
+- **Microsoft Power BI Para Business Intelligence e Data Science**  
+
+### **Cursos da Data Free Code Camp**  
+- **Data Visualization**
+- **Data Analysis com Python **
+
+Alem dos videos do Mago https://www.youtube.com/@teomewhy/playlists
