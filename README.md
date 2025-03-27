@@ -22,6 +22,6 @@ Mais informaçoes nas pastas dos respectivos projetos.
 
 ### **Cursos da Data Free Code Camp**  
 - **Data Visualization**
-- **Data Analysis com Python **
+- **Data Analysis com Python**
 
 Alem dos videos do Mago https://www.youtube.com/@teomewhy/playlists
