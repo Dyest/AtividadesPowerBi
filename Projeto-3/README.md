@@ -33,13 +33,11 @@ Foram criados cards informativos para destacar os principais indicadores:
 
 ### 📊 **Resultado Final da Tela Principal**
 ![Dashboard Projeto 3](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-3/imagem-dashboard.png)  
-> *(Suba a imagem para o repositório com o nome `imagem-dashboard.png` na pasta `Projeto-3`)*
+
 
 ## 📊 **Relacionamento entre Tabelas**
 
 As tabelas de faturamento foram unificadas e relacionadas à Tabela Calendário por meio do campo de data, permitindo a aplicação de filtros e medidas temporais. 
 
-- `Faturamento Unificado` (muitos) → `Calendario` (um)
+![Relacionamento Projeto 3](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-3/imagem-dashboard.png)  
 
-### 📊 **Resultado do Relacionamento**
-*(Adicionar imagem caso deseje ilustrar o modelo relacional)*
