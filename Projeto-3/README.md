@@ -32,7 +32,7 @@ Foram criados cards informativos para destacar os principais indicadores:
 - Criação de uma **tabela calendário** automática para análises temporais avançadas.
 
 ### 📊 **Resultado Final da Tela Principal**
-![Dashboard Projeto 3](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-3/imagem-dashboard.png)  
+![Dashboard Projeto 3](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-3/imgs/dashboard.png)  
 
 
 ## 📊 **Relacionamento entre Tabelas**
