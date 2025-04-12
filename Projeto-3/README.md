@@ -39,5 +39,5 @@ Foram criados cards informativos para destacar os principais indicadores:
 
 As tabelas de faturamento foram unificadas e relacionadas à Tabela Calendário por meio do campo de data, permitindo a aplicação de filtros e medidas temporais. 
 
-![Relacionamento Projeto 3](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-3/imagem-dashboard.png)  
+![Relacionamento Projeto 3](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-3/imgs/relacionamentos.png)  
 
