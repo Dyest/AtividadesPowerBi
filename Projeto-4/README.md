@@ -45,6 +45,8 @@ Nesta segunda página do grupo, foi criado um gráfico do tipo Dot Plot, que rep
   <img src="[caminho/para/imagem2.png](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-4/Imagens/Grupo1-page2.png)" alt="Imagem 2" width="45%" />
 </p>
 
+[Grupo1-1] "https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-4/Imagens/Grupo1-page2.png"
+[Grupo1-1] "https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-4/Imagens/Grupo1-page2.png"
 ## 👩‍🎓 Grupo 2 - Alunos
 
 - **Total de Alunos Matriculados**: Apresenta a quantidade total de alunos registrados na instituição.
