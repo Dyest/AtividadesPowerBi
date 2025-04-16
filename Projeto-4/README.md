@@ -40,7 +40,7 @@ Nesta página são apresentadas diversas métricas institucionais, com destaque 
 Nesta segunda página do grupo, foi criado um gráfico do tipo Dot Plot, que representa o valor da inadimplência dos cursos distribuído por campus.
 #### **resultados:**
 
-
+|:--:|:--:|
 ![Grupo1-1](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-4/Imagens/Grupo1-page1.png?raw=true) 
 ![Grupo1-2](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-4/Imagens/Grupo1-page2.png?raw=true) 
 
