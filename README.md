@@ -7,10 +7,12 @@ Mais informaçoes nas pastas dos respectivos projetos.
 
 ## **Conceitos aprendidos até o momento:**  
 
+- **Diferentes visuais e estilização no Power BI**  
 - **Power BI (iniciante → intermediário)**  
 - **Power Query e processos de ETL**  
 - **Fórmulas DAX**  
-- **Processos de Join e mesclagem de tabelas no Power Query** 
+- **Processos de Join e mesclagem de tabelas no Power Query**
+- **separação de Tabelas Fato X Dimensão** 
 
 ## **Futuros estudos e cursos planejados:**  
 
