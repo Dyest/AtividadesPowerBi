@@ -23,7 +23,7 @@ O dashboard foi organizado em quatro grupos principais, com foco em facilitar a 
 ## 🏫 Grupo: Campus
 Este grupo foi dividido em duas páginas, com foco em apresentar dados consolidados e comparativos entre os diferentes campi da universidade.
 
-#### ** 📄Página 1 – Visão Geral dos Campus**
+#### **📄Página 1 – Visão Geral dos Campus**
 Nesta página são apresentadas diversas métricas institucionais, com destaque para:
 
 - Inadimplência por curso.
@@ -36,7 +36,7 @@ Nesta página são apresentadas diversas métricas institucionais, com destaque 
 
 - Tabela com a porcentagem de faturamento por curso, permitindo avaliar o peso financeiro de cada graduação.
 
-#### ** 📄Página 2 – Comparativo de Inadimplência por Campus**
+#### **📄Página 2 – Comparativo de Inadimplência por Campus**
 Nesta segunda página do grupo, foi criado um gráfico do tipo Dot Plot, que representa o valor da inadimplência dos cursos distribuído por campus.
 #### **resultados:**
 
