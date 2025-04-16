@@ -40,8 +40,8 @@ Nesta página são apresentadas diversas métricas institucionais, com destaque 
 Nesta segunda página do grupo, foi criado um gráfico do tipo Dot Plot, que representa o valor da inadimplência dos cursos distribuído por campus.
 #### **resultados:**
 
-[Grupo1-1](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-4/Imagens/Grupo1-page1.png?raw=true) 
-[Grupo1-2](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-4/Imagens/Grupo1-page2.png?raw=true)
+![Grupo1-1](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-4/Imagens/Grupo1-page1.png?raw=true) 
+![Grupo1-2](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-4/Imagens/Grupo1-page2.png?raw=true)
 
 ## 👩‍🎓 Grupo 2 - Alunos
 
@@ -73,7 +73,8 @@ Nesta segunda página do grupo, foi criado um gráfico do tipo Dot Plot, que rep
 
 **Resultado :**
 
-![Dashboard Projeto 3](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-4/Imagens/Grupo1-page1.png?raw=true)  
+![Grupo2-1](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-4/Imagens/Grupo2-page1.png?raw=true) 
+
 
 ## 💰 Grupo 3 – Financeiro
 
@@ -112,4 +113,5 @@ Esta tela foca na análise financeira da instituição, com ênfase em inadimpl�
  
 **Resultado:**
 
-![Dashboard Projeto 3](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-3/imgs/dashboard.png)  
+![Grupo3-1](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-4/Imagens/Grupo3-page1.png?raw=true) 
+![Grupo3-2](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-4/Imagens/Grupo3-page2.png?raw=true) 
