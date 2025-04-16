@@ -40,7 +40,8 @@ Nesta página são apresentadas diversas métricas institucionais, com destaque 
 Nesta segunda página do grupo, foi criado um gráfico do tipo Dot Plot, que representa o valor da inadimplência dos cursos distribuído por campus.
 #### **resultados:**
 
-imagens
+![Dashboard Projeto 3](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-3/imgs/dashboard.png)
+
 ## 👩‍🎓 Grupo 2 - Alunos
 
 - **Total de Alunos Matriculados**: Apresenta a quantidade total de alunos registrados na instituição.
@@ -70,6 +71,8 @@ imagens
 - **Cluster Map** apresentando Faturmanto por cursos
 
 **Resultado :**
+
+![Dashboard Projeto 3](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-3/imgs/dashboard.png)  
 
 ## 💰 Grupo 3 – Financeiro
 
@@ -107,3 +110,5 @@ Esta tela foca na análise financeira da instituição, com ênfase em inadimpl�
 - **Faturamento x Inadimplência**:
  
 **Resultado:**
+
+![Dashboard Projeto 3](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-3/imgs/dashboard.png)  
