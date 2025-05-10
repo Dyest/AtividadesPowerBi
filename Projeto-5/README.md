@@ -157,4 +157,5 @@ A **segunda tela** do dashboard apresenta análises detalhadas sobre **quantidad
 
 ---
 
-É isso rapaziada vlw por chegar até aqui.
+É isso rapaziada vlw por chegar até aqui
+
