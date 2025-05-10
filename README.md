@@ -23,10 +23,11 @@ Mais informaçoes nas pastas dos respectivos projetos.
 
 ✅ PowerBI + SQLServer - https://www.udemy.com/course/powerbi-sqlserver/
 
-## **Futuros estudos e cursos planejados:**  
-
-## **Curso da Google Disponibilizado pela CIEE + Coursera**
+## Em Andamento
+### **Curso da Google Disponibilizado pela CIEE + Coursera**
 - 🔄 **Data analystc**
+
+## **Futuros estudos e cursos planejados:**
 
 ### **Cursos da Data Science Academy**  
 - **Fundamentos de Data Science e Inteligência Artificial**  
