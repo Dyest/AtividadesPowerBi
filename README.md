@@ -25,7 +25,7 @@ Mais informaçoes nas pastas dos respectivos projetos.
 
 ## Em Andamento
 ### **Curso da Google Disponibilizado pela CIEE + Coursera**
-- 🔄 **Data analystc**
+- 🔄 **Data analytcs**
 
 ## **Futuros estudos e cursos planejados:**
 
