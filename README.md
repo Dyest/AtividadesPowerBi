@@ -1,5 +1,5 @@
 
-# **ATIVIDADES PRATICAS DE POWER BI**
+# **ATIVIDADES PRATICAS DE POWER BI** 
 
 Estes projetos foram desenvolvidos atraves de um curso externo de Power BI + SQL, no qual estou aprendendo algus dos conceitos dessas ferramentas.
 Mais informaçoes nas pastas dos respectivos projetos.
@@ -17,6 +17,11 @@ Mais informaçoes nas pastas dos respectivos projetos.
 - **Introdução a SQL e SQL server**
 - **Conecção do Power Bi com SQL Server**
 - **Comandos e concecitos basicos e intermediarios de SQL**
+
+
+##Cursos Completos
+
+✅ PowerBI + SQLServer - https://www.udemy.com/course/powerbi-sqlserver/
 
 ## **Futuros estudos e cursos planejados:**  
 
