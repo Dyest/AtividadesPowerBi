@@ -12,9 +12,16 @@ Mais informaçoes nas pastas dos respectivos projetos.
 - **Power Query e processos de ETL**  
 - **Fórmulas DAX**  
 - **Processos de Join e mesclagem de tabelas no Power Query**
-- **separação de Tabelas Fato X Dimensão** 
+- **separação de Tabelas Fato X Dimensão**
+- **Criação de designe de dashboards no Figma**
+- **Introdução a SQL e SQL server**
+- **Conecção do Power Bi com SQL Server**
+- **Comandos e concecitos basicos e intermediarios de SQL**
 
 ## **Futuros estudos e cursos planejados:**  
+
+## **Curso da Google Disponibilizado pela CIEE + Coursera**
+- **Data analystc**
 
 ### **Cursos da Data Science Academy**  
 - **Fundamentos de Data Science e Inteligência Artificial**  

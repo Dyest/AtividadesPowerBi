@@ -108,7 +108,7 @@ END;
 
 Após as modificações realizadas no banco de dados, as tabelas foram consumidas no Power BI, onde foram estabelecidos os relacionamentos necessários entre as tabelas, garantindo a correta estruturação dos dados.
 
-![Modelo Relacional](link_para_imagem.md)
+![Modelo Relacional](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-5/Imagens/Relacionamentos.png?raw=true)
 
 ---
 
@@ -140,7 +140,7 @@ A primeira tela apresenta um **dashboard financeiro**, destacando informações 
   - Exibe os tipos de eventos e seus respectivos faturamentos, juntamente com seus tipos (custo alto/baixo) e a quantidade total de realizações.
 
 
-![Tela 1](link_para_imagem_tela1.md)
+![Tela 1](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-5/Imagens/Pagina1.png?raw=true)
 
 ---
 
@@ -153,7 +153,7 @@ A **segunda tela** do dashboard apresenta análises detalhadas sobre **quantidad
 - **Gráfico de Barras Horizontal:** Exibe os **cinco principais contratantes** por faturamento.  
 - **Gráfico de Barras Horizontal:** Exibe os contratantes que realizaram **mais eventos**.  
 
-![Tela 2](link_para_imagem_tela2.md)
+![Tela 2](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-5/Imagens/Pagina2.png?raw=true)
 
 ---
 
