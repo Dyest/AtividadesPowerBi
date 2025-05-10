@@ -108,7 +108,7 @@ END;
 
 Após as modificações realizadas no banco de dados, as tabelas foram consumidas no Power BI, onde foram estabelecidos os relacionamentos necessários entre as tabelas, garantindo a correta estruturação dos dados.
 
-![Modelo Relacional](link_para_imagem.md)
+![Modelo Relacional]([link_para_imagem.md](https://github.com/Dyest/AtividadesPowerBi/blob/main/Projeto-5/Imagens/Relacionamentos.png?raw=true))
 
 ---
 
