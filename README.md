@@ -20,7 +20,7 @@ Mais informaçoes nas pastas dos respectivos projetos.
 
 ## **Futuros estudos e cursos planejados:**  
 
-##**Curso da Google Disponibilizado pela CIEE + Coursera**
+## **Curso da Google Disponibilizado pela CIEE + Coursera**
 - **Data analystc**
 
 ### **Cursos da Data Science Academy**  
